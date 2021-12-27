@@ -1,0 +1,65 @@
+{
+  "name": "finance",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "npx react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "start-reset-cache": "react-native start --reset-cache",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "clean": "cd android && ./gradlew clean && cd ..",
+    "adb-devices": "adb devices",
+    "pod-install": "cd ios && pod install && cd ..",
+    "pod-update": "cd ios && pod update && cd ..",
+    "pod-uninstall": "cd ios && rm -rf Pods && rm -rf Podfile.lock",
+    "install-npm": "npm i ",
+    "project-uninstall-settings": "rm -rf node_modules && rm -rf package-lock.json"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "adb": "^0.2.0",
+    "axios": "^0.24.0",
+    "dayjs": "^1.10.7",
+    "jetifier": "^2.0.0",
+    "react": "17.0.2",
+    "react-native": "0.66.3",
+    "react-native-geocoder": "^0.5.0",
+    "react-native-location": "^2.5.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.9.0",
+    "react-native-vector-icons": "^9.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@types/jest": "^26.0.23",
+    "@types/react-native": "^0.66.4",
+    "@types/react-native-vector-icons": "^6.4.10",
+    "@types/react-test-renderer": "^17.0.1",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.14.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.66.2",
+    "react-test-renderer": "17.0.2",
+    "typescript": "^4.4.4"
+  },
+  "resolutions": {
+    "@types/react": "^17"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}

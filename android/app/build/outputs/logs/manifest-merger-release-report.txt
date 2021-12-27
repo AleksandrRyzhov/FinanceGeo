@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-geocoder] /Users/alex-remedy/MyTestProject1/node_modules/react-native-geocoder/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/alex-remedy/MyTestProject1/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/alex-remedy/MyTestProject1/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/alex-remedy/MyTestProject1/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.66.3] /Users/alex-remedy/.gradle/caches/transforms-3/a8a3eb31a139cef1453600077c86ac9b/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/35eed425b298f30fc33ffe83e30ece13/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/alex-remedy/.gradle/caches/transforms-3/4af14e2f8a69e614086a36c47b7847f1/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-location] /Users/alex-remedy/MyTestProject1/node_modules/react-native-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/fbe804a4fbfe4d77e50bfd9d7481bd49/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/021ff0ca182e28aaeb18551f1ea835e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/4dee1365f0a67343ddce898a2546054b/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/c5473d6909a80ac481067db5fc8ac050/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/42294a5bf359365be18fac56a2fe3254/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/75b9b2e0098c94ed8f00b27e10544370/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/c452a6dc96c7a9d1bfec923604a078ce/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/7684b6df5306ca10487d342060753df0/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/fe8a3db580324e5cc311dbddc39772b8/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/6a5e61a34ab33d57c7d05952261ef60a/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/b379a5db109bc3761c848991c768ffae/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/alex-remedy/.gradle/caches/transforms-3/32d855b9acfda40ffe7019cba686c822/transformed/jetified-mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/alex-remedy/.gradle/caches/transforms-3/6ce050d2235eb51cc59577ae1bfd733d/transformed/jetified-mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/alex-remedy/.gradle/caches/transforms-3/52ddbc14bd36d1a4b867f8c1ce1e018d/transformed/jetified-mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/9a9b10f86bafc71bc6a10c923e686423/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/114c8baac3fd533e3dfa4966aec3cbda/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/52dbb00d72b101e2641f989ce3ea60e1/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/60448d2285122e9306fe7df55a19c13b/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/12bb464ced5cdc002929896f6007add8/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/f87511245e477fb6c8f04bd88889a580/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/alex-remedy/.gradle/caches/transforms-3/a1e2f3ee473ae809c28178e19f8d065e/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/5066756fabd9dff8d5c8a3e0f3ad1a1b/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/ffbad1ddd1f017c73c206e15eec75db5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/2d02da55398a8527d0f1942af42deadf/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/alex-remedy/.gradle/caches/transforms-3/0d3e39c2e574cf13739753a90c5be39a/transformed/jetified-mapbox-android-gestures-0.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/e54cb15a32bee12edea04b5113aa72fd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/alex-remedy/.gradle/caches/transforms-3/f2b5b9e26eb8ce7dc42216b63aa155b9/transformed/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/851d3143b9de9b24618e9f70fc7ae372/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/a68ff50e117725c5ff980445068f1c28/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/28698c6bd8f2ac72e80db35b5a1ef91e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/4f59ec17957153c3464368d7e6aaa6b0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/91d5a720a8ae52056693aa4d947f786d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/cd3879e10e38659ee2cb4a27facb43ea/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/342f147658770e430c8c1ba0d2057962/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/085f93d0fb889e9dfb891f131e817199/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/03508d99a700683cb68e43647ab50e79/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/9b7568190544dcf8143e139079544e67/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/alex-remedy/.gradle/caches/transforms-3/91eebff714f768a20fc62dbef06fda39/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/5cfe8ba5d20229c08df60c452104c16e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/0809883928fe373f2bd6b8b0618020df/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/27811c30dc39d5e29a51542b329b2430/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/a21e9b82ba29b34f873d18a61d5abdcf/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/a1b1e770044f0f86dbfd259719f000c9/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ed579ca3332effd4eddc38b5fc8e9565/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/03cc8b37e6107888d18c64106de8394f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/299c323d72aaa9d4e7b5ce95d4911097/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/6c6c095aeb3cdf29660721a602373fd8/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/dd85193578b2da011e24547451e19153/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/31e6752199caacc347db21ab79140c21/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/68fe72eb4297f4ec8087f4c1995bc041/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/3336361eb83f03d622d88a0b17df7e92/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/110bb35e1b867b23e5fd1bd050273539/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ec1fb620c38ddb2a6f69f00f10a2af42/transformed/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alex-remedy/.gradle/caches/transforms-3/7ae96091bfe08f72d43362b1ce67a208/transformed/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESSCOARSELOCATION
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESSFINELOCATION
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-location] /Users/alex-remedy/MyTestProject1/node_modules/react-native-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-location] /Users/alex-remedy/MyTestProject1/node_modules/react-native-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ec1fb620c38ddb2a6f69f00f10a2af42/transformed/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ec1fb620c38ddb2a6f69f00f10a2af42/transformed/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:11:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:13:22-72
+application
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:15:5-33:19
+MERGED from [com.facebook.react:react-native:0.66.3] /Users/alex-remedy/.gradle/caches/transforms-3/a8a3eb31a139cef1453600077c86ac9b/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.66.3] /Users/alex-remedy/.gradle/caches/transforms-3/a8a3eb31a139cef1453600077c86ac9b/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/9a9b10f86bafc71bc6a10c923e686423/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/9a9b10f86bafc71bc6a10c923e686423/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/alex-remedy/.gradle/caches/transforms-3/a1e2f3ee473ae809c28178e19f8d065e/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/alex-remedy/.gradle/caches/transforms-3/a1e2f3ee473ae809c28178e19f8d065e/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:17:5-27:19
+MERGED from [androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/0809883928fe373f2bd6b8b0618020df/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/0809883928fe373f2bd6b8b0618020df/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alex-remedy/.gradle/caches/transforms-3/7ae96091bfe08f72d43362b1ce67a208/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alex-remedy/.gradle/caches/transforms-3/7ae96091bfe08f72d43362b1ce67a208/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:17:7-39
+	android:roundIcon
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:19:7-52
+	android:icon
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:18:7-41
+	android:allowBackup
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:20:7-34
+	android:theme
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:21:7-38
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:16:7-38
+activity#com.mytestproject1.MainActivity
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:22:7-32:18
+	android:label
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:24:9-41
+	android:launchMode
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:26:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:27:9-51
+	android:configChanges
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:25:9-86
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:30:23-70
+uses-sdk
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/alex-remedy/MyTestProject1/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geocoder] /Users/alex-remedy/MyTestProject1/node_modules/react-native-geocoder/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geocoder] /Users/alex-remedy/MyTestProject1/node_modules/react-native-geocoder/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/alex-remedy/MyTestProject1/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/alex-remedy/MyTestProject1/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/alex-remedy/MyTestProject1/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/alex-remedy/MyTestProject1/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/alex-remedy/MyTestProject1/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/alex-remedy/MyTestProject1/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.3] /Users/alex-remedy/.gradle/caches/transforms-3/a8a3eb31a139cef1453600077c86ac9b/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.3] /Users/alex-remedy/.gradle/caches/transforms-3/a8a3eb31a139cef1453600077c86ac9b/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/35eed425b298f30fc33ffe83e30ece13/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/35eed425b298f30fc33ffe83e30ece13/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/alex-remedy/.gradle/caches/transforms-3/4af14e2f8a69e614086a36c47b7847f1/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/alex-remedy/.gradle/caches/transforms-3/4af14e2f8a69e614086a36c47b7847f1/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-location] /Users/alex-remedy/MyTestProject1/node_modules/react-native-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-location] /Users/alex-remedy/MyTestProject1/node_modules/react-native-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/fbe804a4fbfe4d77e50bfd9d7481bd49/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/fbe804a4fbfe4d77e50bfd9d7481bd49/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/021ff0ca182e28aaeb18551f1ea835e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/021ff0ca182e28aaeb18551f1ea835e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/4dee1365f0a67343ddce898a2546054b/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/4dee1365f0a67343ddce898a2546054b/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/c5473d6909a80ac481067db5fc8ac050/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/c5473d6909a80ac481067db5fc8ac050/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/42294a5bf359365be18fac56a2fe3254/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/42294a5bf359365be18fac56a2fe3254/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/75b9b2e0098c94ed8f00b27e10544370/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/75b9b2e0098c94ed8f00b27e10544370/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/c452a6dc96c7a9d1bfec923604a078ce/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/c452a6dc96c7a9d1bfec923604a078ce/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/7684b6df5306ca10487d342060753df0/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/7684b6df5306ca10487d342060753df0/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/fe8a3db580324e5cc311dbddc39772b8/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/fe8a3db580324e5cc311dbddc39772b8/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/6a5e61a34ab33d57c7d05952261ef60a/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/6a5e61a34ab33d57c7d05952261ef60a/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/b379a5db109bc3761c848991c768ffae/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/b379a5db109bc3761c848991c768ffae/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/alex-remedy/.gradle/caches/transforms-3/32d855b9acfda40ffe7019cba686c822/transformed/jetified-mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/alex-remedy/.gradle/caches/transforms-3/32d855b9acfda40ffe7019cba686c822/transformed/jetified-mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/alex-remedy/.gradle/caches/transforms-3/6ce050d2235eb51cc59577ae1bfd733d/transformed/jetified-mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/alex-remedy/.gradle/caches/transforms-3/6ce050d2235eb51cc59577ae1bfd733d/transformed/jetified-mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/alex-remedy/.gradle/caches/transforms-3/52ddbc14bd36d1a4b867f8c1ce1e018d/transformed/jetified-mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/alex-remedy/.gradle/caches/transforms-3/52ddbc14bd36d1a4b867f8c1ce1e018d/transformed/jetified-mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/9a9b10f86bafc71bc6a10c923e686423/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/9a9b10f86bafc71bc6a10c923e686423/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/114c8baac3fd533e3dfa4966aec3cbda/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/114c8baac3fd533e3dfa4966aec3cbda/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/52dbb00d72b101e2641f989ce3ea60e1/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/52dbb00d72b101e2641f989ce3ea60e1/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/60448d2285122e9306fe7df55a19c13b/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/60448d2285122e9306fe7df55a19c13b/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/12bb464ced5cdc002929896f6007add8/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/12bb464ced5cdc002929896f6007add8/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/f87511245e477fb6c8f04bd88889a580/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/f87511245e477fb6c8f04bd88889a580/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/alex-remedy/.gradle/caches/transforms-3/a1e2f3ee473ae809c28178e19f8d065e/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/alex-remedy/.gradle/caches/transforms-3/a1e2f3ee473ae809c28178e19f8d065e/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/5066756fabd9dff8d5c8a3e0f3ad1a1b/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/5066756fabd9dff8d5c8a3e0f3ad1a1b/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/ffbad1ddd1f017c73c206e15eec75db5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/ffbad1ddd1f017c73c206e15eec75db5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/2d02da55398a8527d0f1942af42deadf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/2d02da55398a8527d0f1942af42deadf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/alex-remedy/.gradle/caches/transforms-3/0d3e39c2e574cf13739753a90c5be39a/transformed/jetified-mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/alex-remedy/.gradle/caches/transforms-3/0d3e39c2e574cf13739753a90c5be39a/transformed/jetified-mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/e54cb15a32bee12edea04b5113aa72fd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/e54cb15a32bee12edea04b5113aa72fd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/alex-remedy/.gradle/caches/transforms-3/f2b5b9e26eb8ce7dc42216b63aa155b9/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/alex-remedy/.gradle/caches/transforms-3/f2b5b9e26eb8ce7dc42216b63aa155b9/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/851d3143b9de9b24618e9f70fc7ae372/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/851d3143b9de9b24618e9f70fc7ae372/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/a68ff50e117725c5ff980445068f1c28/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/a68ff50e117725c5ff980445068f1c28/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/28698c6bd8f2ac72e80db35b5a1ef91e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/28698c6bd8f2ac72e80db35b5a1ef91e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/4f59ec17957153c3464368d7e6aaa6b0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/4f59ec17957153c3464368d7e6aaa6b0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/91d5a720a8ae52056693aa4d947f786d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/91d5a720a8ae52056693aa4d947f786d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/cd3879e10e38659ee2cb4a27facb43ea/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/cd3879e10e38659ee2cb4a27facb43ea/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/342f147658770e430c8c1ba0d2057962/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/342f147658770e430c8c1ba0d2057962/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/085f93d0fb889e9dfb891f131e817199/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/085f93d0fb889e9dfb891f131e817199/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/03508d99a700683cb68e43647ab50e79/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/03508d99a700683cb68e43647ab50e79/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/9b7568190544dcf8143e139079544e67/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/9b7568190544dcf8143e139079544e67/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/alex-remedy/.gradle/caches/transforms-3/91eebff714f768a20fc62dbef06fda39/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/alex-remedy/.gradle/caches/transforms-3/91eebff714f768a20fc62dbef06fda39/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/5cfe8ba5d20229c08df60c452104c16e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/5cfe8ba5d20229c08df60c452104c16e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/0809883928fe373f2bd6b8b0618020df/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/0809883928fe373f2bd6b8b0618020df/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/27811c30dc39d5e29a51542b329b2430/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/27811c30dc39d5e29a51542b329b2430/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/a21e9b82ba29b34f873d18a61d5abdcf/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/a21e9b82ba29b34f873d18a61d5abdcf/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/a1b1e770044f0f86dbfd259719f000c9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/a1b1e770044f0f86dbfd259719f000c9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ed579ca3332effd4eddc38b5fc8e9565/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ed579ca3332effd4eddc38b5fc8e9565/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/03cc8b37e6107888d18c64106de8394f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/03cc8b37e6107888d18c64106de8394f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/299c323d72aaa9d4e7b5ce95d4911097/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/299c323d72aaa9d4e7b5ce95d4911097/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/6c6c095aeb3cdf29660721a602373fd8/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/6c6c095aeb3cdf29660721a602373fd8/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/dd85193578b2da011e24547451e19153/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/dd85193578b2da011e24547451e19153/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/31e6752199caacc347db21ab79140c21/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/31e6752199caacc347db21ab79140c21/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/68fe72eb4297f4ec8087f4c1995bc041/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/alex-remedy/.gradle/caches/transforms-3/68fe72eb4297f4ec8087f4c1995bc041/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/3336361eb83f03d622d88a0b17df7e92/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/3336361eb83f03d622d88a0b17df7e92/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/110bb35e1b867b23e5fd1bd050273539/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/alex-remedy/.gradle/caches/transforms-3/110bb35e1b867b23e5fd1bd050273539/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ec1fb620c38ddb2a6f69f00f10a2af42/transformed/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/alex-remedy/.gradle/caches/transforms-3/ec1fb620c38ddb2a6f69f00f10a2af42/transformed/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alex-remedy/.gradle/caches/transforms-3/7ae96091bfe08f72d43362b1ce67a208/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alex-remedy/.gradle/caches/transforms-3/7ae96091bfe08f72d43362b1ce67a208/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:13:9-45
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:25:13-93

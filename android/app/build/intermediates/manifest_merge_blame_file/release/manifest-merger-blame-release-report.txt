@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mytestproject1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESSCOARSELOCATION" />
+12-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:5:5-78
+12-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESSFINELOCATION" />
+13-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:6:5-76
+13-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:7:5-81
+14-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:8:5-79
+15-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:9:5-81
+16-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:10:5-79
+17-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:11:5-76
+18-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+19-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:12:5-76
+19-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:12:22-73
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:13:5-75
+20-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:13:22-72
+21
+22    <uses-feature
+22-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:9:5-11:35
+23        android:glEsVersion="0x00020000"
+23-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:10:9-41
+24        android:required="true" />
+24-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:11:9-32
+25    <uses-feature
+25-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:12:5-14:36
+26        android:name="android.hardware.wifi"
+26-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:13:9-45
+27        android:required="false" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
+27-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/441bbb02462f6680daf39b8b1e41c38d/transformed/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:14:9-33
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:5-68
+28-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:22-65
+29
+30    <application
+30-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:15:5-33:19
+31        android:name="com.mytestproject1.MainApplication"
+31-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:16:7-38
+32        android:allowBackup="false"
+32-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:20:7-34
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/e9141eb4d1066d3ffdfa0b48b6af2081/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+34        android:icon="@mipmap/ic_launcher"
+34-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:18:7-41
+35        android:label="@string/app_name"
+35-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:17:7-39
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:19:7-52
+37        android:theme="@style/AppTheme" >
+37-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:21:7-38
+38        <activity
+38-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:22:7-32:18
+39            android:name="com.mytestproject1.MainActivity"
+39-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:23:9-37
+40            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+40-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:25:9-86
+41            android:label="@string/app_name"
+41-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:24:9-41
+42            android:launchMode="singleTask"
+42-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:26:9-40
+43            android:windowSoftInputMode="adjustResize" >
+43-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:27:9-51
+44            <intent-filter>
+44-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:28:9-31:25
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:29:13-65
+45-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:29:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:30:13-73
+47-->/Users/alex-remedy/MyTestProject1/android/app/src/main/AndroidManifest.xml:30:23-70
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:18:9-22:39
+52            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+52-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:19:13-93
+53            android:authorities="com.mytestproject1.mapboxtelemetryinitprovider"
+53-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:20:13-79
+54            android:exported="false"
+54-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:21:13-37
+55            android:initOrder="100" />
+55-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:22:13-36
+56
+57        <service
+57-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:24:9-26:72
+58            android:name="com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService"
+58-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:25:13-93
+59            android:permission="android.permission.BIND_JOB_SERVICE" />
+59-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/alex-remedy/.gradle/caches/transforms-3/a91fbbf2b51c44d661af2d4caf0b66a6/transformed/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:26:13-69
+60    </application>
+61
+62</manifest>
